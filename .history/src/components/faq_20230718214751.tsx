@@ -1,0 +1,2 @@
+Element implicitly has an 'any' type because expression of type 'string' can't be used to index type '{ accordion1: boolean; accordion2: boolean; accordion3: boolean; accordion4: boolean; }'.
+  No index signature with a parameter of type 'string' was found on type '{ accordion1: boolean; accordion2: boolean; accordion3: boolean; accordion4: boolean; }'.
