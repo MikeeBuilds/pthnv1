@@ -1,5 +1,4 @@
 'use client'
-import Aos from 'aos';
 
 import { useState, FC } from 'react';
 
