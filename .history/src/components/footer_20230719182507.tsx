@@ -136,7 +136,7 @@ const Footer = () => {
             <img
               src="/logo.png"
               className="h-6 mr-3 sm:h-9"
-              alt="Pantheon Logo"
+              alt="Landwind Logo"
             />
             Pantheon
           </Link>

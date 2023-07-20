@@ -136,14 +136,14 @@ const Footer = () => {
             <img
               src="/logo.png"
               className="h-6 mr-3 sm:h-9"
-              alt="Pantheon Logo"
+              alt="Landwind Logo"
             />
             Pantheon
           </Link>
           <span className="block text-sm text-center text-gray-500 dark:text-gray-400">
             © 2023-2024 Pantheon™. All Rights Reserved. Built by{' '}
             <Link
-              target="blank"
+              target=""
               href="https://algocodes.xyz/"
               className="text-purple-600 hover:underline dark:text-purple-500"
             >
