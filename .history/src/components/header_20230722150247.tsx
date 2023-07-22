@@ -18,7 +18,7 @@ const Header: FC = () => {
                 alt="Pantheon Logo"
               />
               <span className="greek self-center text-xl font-semibold whitespace-nowrap dark:text-white">
-              Panthșon
+                Pantheon
               </span>
             </div>
           </Link>

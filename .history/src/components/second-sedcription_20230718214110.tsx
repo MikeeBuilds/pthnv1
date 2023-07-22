@@ -11,7 +11,7 @@ const SecondDescription = () => {
               data-aos-duration="800"
               data-aos-easing="ease-in-out"
               data-aos-once="false" className="text-lg font-medium text-purple-600 dark:text-purple-500">
-            Trusted Worldwide 🛡️
+            Trusted Worldwide
           </p>
           <h2  data-aos="fade-up"
               data-aos-offset="200"

@@ -15,7 +15,7 @@ const FirstDescription = () => {
                             data-aos-once="false"
                             className="mb-4 text-3xl font-extrabold tracking-tight text-gray-900 dark:text-white"
                         >
-                            Work with Pantheon at your fingertips.
+                            Work with tools you already use
                         </h2>
                         <p data-aos="fade-right" className="mb-8 font-light lg:text-xl">
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -39,7 +39,7 @@ const FirstDescription = () => {
                                     ></path>
                                 </svg>
                                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                                    Mint & Burn
+                                    Continuous integration and deployment
                                 </span>
                             </li>
                             <li data-aos="fade-right" className="flex space-x-3">
@@ -78,7 +78,8 @@ const FirstDescription = () => {
                             </li>
                         </ul>
                         <p data-aos="fade-right" className="mb-8 font-light lg:text-xl">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Deliver great service experiences fast - without the complexity of
+                            traditional ITSM solutions.
                         </p>
                     </div>
                     <img
@@ -109,7 +110,9 @@ const FirstDescription = () => {
                             We invest in the world’s potential
                         </h2>
                         <p data-aos="fade-left" className="mb-8 font-light lg:text-xl">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Deliver great service experiences fast - without the complexity of
+                            traditional ITSM solutions. Accelerate critical development work,
+                            eliminate toil, and deploy changes with ease.
                         </p>
 
                         <ul
@@ -147,7 +150,7 @@ const FirstDescription = () => {
                                     ></path>
                                 </svg>
                                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                                    something for everyone
+                                    Templates for everyone
                                 </span>
                             </li>
                             <li data-aos="fade-left" className="flex space-x-3">
@@ -164,7 +167,7 @@ const FirstDescription = () => {
                                     ></path>
                                 </svg>
                                 <span className="text-base font-medium leading-tight text-gray-900 dark:text-white">
-                                    crypto workflow
+                                    Development workflow
                                 </span>
                             </li>
                             <li data-aos="fade-left" className="flex space-x-3">
@@ -203,7 +206,8 @@ const FirstDescription = () => {
                             </li>
                         </ul>
                         <p data-aos="fade-left" className="font-light lg:text-xl">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                            Deliver great service experiences fast - without the complexity of
+                            traditional ITSM solutions.
                         </p>
                     </div>
                 </div>
